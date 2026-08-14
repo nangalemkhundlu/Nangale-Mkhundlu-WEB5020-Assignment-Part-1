@@ -24,19 +24,18 @@ sisonke-auto-care/
 ├── README.md
 ├── CHANGELOG.md
 └── images/
-    ├── logo.svg
-    ├── workshop.svg
-    ├── team.svg
-    ├── service.svg
-    ├── brakes.svg
-    ├── diagnostics.svg
+    ├── AdobeStock_55.svg
+    ├── auto-repair-team.svg
+    ├── web-Siteimage-6-scaled.svg
+    ├── free-car-repair-and service-vector-illustartion.svg
+    ├── diagnostics-auto-opt-scaled.svg
     └── location.svg
 ```
 
 ## How to Run the Website
 
 1. Download or clone the project from the GitHub repository.
-2. Open the `sisonke-auto-care` project folder.
+2. Open the `NANGALE MKHUNDLU WEB5020 Assignment 1` project folder.
 3. Open `index.html` in a web browser.
 4. Use the navigation menu to move between the five pages.
 
@@ -100,3 +99,4 @@ The website was developed as part of a web development project and demonstrates 
 ## Proposed Domain
 
 `www.sisonkeautocare.co.za`
+# ST10485056-Web-Development-WEDE5020-assignment-part-1
