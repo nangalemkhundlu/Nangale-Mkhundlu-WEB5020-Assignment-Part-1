@@ -99,4 +99,13 @@ The website was developed as part of a web development project and demonstrates 
 ## Proposed Domain
 
 `www.sisonkeautocare.co.za`
-# ST10485056-Web-Development-WEDE5020-assignment-part-1
+
+## Git Hub
+https://github.com/nangalemkhundlu/Nangale-Mkhundlu-WEB5020-Assignment-Part-1.git
+
+## netlify 
+https://lambent-axolotl-305434.netlify.app/
+
+ 
+
+
